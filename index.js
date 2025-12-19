@@ -9,7 +9,7 @@ function isabove18(){
     return age>=18
 
 }
-
+// merge
 function newfeature(){
     console.log("new feature")
 }
